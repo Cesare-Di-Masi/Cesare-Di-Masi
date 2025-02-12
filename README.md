@@ -45,10 +45,11 @@
 
 ---
 
-## 📡 **Connect with Me**
-📧 Email: `your.email@example.com`  
-🐦 Twitter: [@YourTwitter](https://twitter.com/YourTwitter)  
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/YourUsername)  
+### 🎵 **Now Playing on Spotify**
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=_Qwini_&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+</p>
+
 
 ---
 
