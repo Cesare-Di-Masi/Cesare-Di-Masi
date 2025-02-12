@@ -16,6 +16,9 @@
 
 ---
 
+### ** Contribution **
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
