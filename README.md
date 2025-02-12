@@ -8,20 +8,15 @@
   </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cesare-Di-Masi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cesare-Di-Masi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cesare-Di-Masi&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cesare-Di-Masi&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesare-Di-Masi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
 ---
 
 ## 🔥 **What I'm Working On**
