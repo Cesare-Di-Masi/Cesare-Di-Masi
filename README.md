@@ -43,13 +43,6 @@
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
----
-
-### 🎵 **Now Playing on Spotify**
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=_Qwini_&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
-</p>
-
 
 ---
 
