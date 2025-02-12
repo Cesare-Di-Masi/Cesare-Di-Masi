@@ -4,7 +4,7 @@
 ## 🏆 **GitHub Trophies**
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Cesare-Di-Masi&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
   </a>
 </p>
 
