@@ -39,6 +39,10 @@
 - ⚡ Fun fact **I like dugonghi**
 
 ---
+### 🐍 **GitHub Contribution Snake**
+<p align="center">
+  <img src="https://github.com/Cesare-Di-Masi/Cesare-Di-Masi/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
 
 ## 🛠️ **Languages & Tools**
 <p align="center">
