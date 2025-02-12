@@ -82,9 +82,6 @@
 ---
 
 ## 📊 **GitHub Stats**
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Cesare-Di-Masi"/></a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cesare-Di-Masi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
