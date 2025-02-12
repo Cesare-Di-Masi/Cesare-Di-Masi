@@ -1,10 +1,4 @@
 # 🚀 Welcome to My GitHub Universe!  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/twitter/follow/YourTwitter?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
-</p>
-
 ---
 
 ## 🏆 **GitHub Trophies**
