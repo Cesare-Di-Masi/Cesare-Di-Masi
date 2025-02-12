@@ -16,9 +16,6 @@
 
 ---
 
-### ** Contribution **
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
@@ -63,10 +60,12 @@
 
 ---
 
-### **What's New?**
-✅ **Improved Trophies** with a **modern theme**  
-✅ **Dark Mode Stats** with **smooth layout**  
-✅ **Sleek Icons** for all technologies  
-✅ **Better readability and alignment**  
+### ** Contribution **
+![snake gif](https://github.com/Cesare-Di-Masi/Cesare-Di-Masi/blob/output/github-snake-dark.svg)
 
-Would you like **extra effects, animations, or interactive sections**? 🚀  
+### 👀 **Profile Views**
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Cesare-Di-Masi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" /> 
+</p>
+
+
