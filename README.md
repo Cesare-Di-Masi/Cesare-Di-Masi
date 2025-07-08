@@ -122,11 +122,12 @@
 
 ## 🔥 **What I'm Working On**
 - 🎓 Studying at **PASCAL COMANDINI**
-- 🔭 Building **AI Fighting Simulator**
-- 💻 Exploring **C++, C#, Python**
-- 👯 Looking for **C++ team "Mr.Dugongo"**
-- 💬 Ask me about **Dugonghi** 🦦
-- ⚡ Fun fact **I like dugonghi**
+- 🔭 Building **My own biology**
+- 💻 Exploring **C++, C#, Assembly, Python**
+- 👯 Looking for **An objective to destroy"**
+- 💬 Ask me about **Dugongs** 🦦
+- ⚡ Fun fact **I like dugongs**
+- Who Ami I? **A genetically modified Dugong which has the objective to destory the world as we know in order to make a paradise for Dugongs**
 
 ---
 
